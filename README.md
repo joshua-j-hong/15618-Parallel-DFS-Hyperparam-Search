@@ -1,4 +1,4 @@
-# 15618-Parallel-DFS-Hyperparam-Search
+# Parallelizing a DFS-based hyperparameter search algorithm using Shared Address Space and Message Passing models
 
 ## Links
 Project Proposal
