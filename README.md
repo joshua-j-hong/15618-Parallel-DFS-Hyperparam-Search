@@ -1,7 +1,7 @@
 # Parallelizing a DFS-based hyperparameter search algorithm using Shared Address Space and Message Passing models
 
 ## Links
-Project Proposal
+[Project Proposal (PDF)](./proposal.pdf)
 
 ## Team
 Joshua Hong (jjhong), Kit Ao (kitao)
