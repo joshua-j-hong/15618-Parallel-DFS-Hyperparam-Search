@@ -2,6 +2,7 @@
 
 ## Links
 [Project Proposal (PDF)](./proposal.pdf)
+
 [Project Milestone (PDF)](./milestone.pdf)
 
 ## Team
@@ -44,12 +45,14 @@ As mentioned previously, we plan on developing our Shared Address Space and Mess
 
 ## Schedule
 
-| Week | Goals |
-|--------------------|------|
-|November 18 - November 24          | Shared Address Space approach | 
-|November 25 - December 1          | Message Passing approach |
-|December 2 - December 8           | Additional optimizations and approaches involving the z3 solver and different search algorithms |
-|December 9 - December 15         | Final Report |
+| Week | Goals | Status/Assignment
+|--------------------|------|------
+|November 18 - November 24          | Shared Address Space approach | Completed
+|November 25 - December 1          | Message Passing approach | Completed
+|November 2 - December 5          | Complete Shared Address Space benchmarking | Kit
+|November 6 - December 8          | Message Passing approach compatibility with PSC | Joshua
+|November 9 - December 12          | Complete Message Passing benchmarking | Joshua
+|December 13 - December 15         | Final Report | Kit and Joshua
 
 ## Citations
 
