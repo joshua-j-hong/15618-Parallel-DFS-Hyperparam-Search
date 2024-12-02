@@ -2,6 +2,7 @@
 
 ## Links
 [Project Proposal (PDF)](./proposal.pdf)
+[Project Milestone (PDF)](./milestone.pdf)
 
 ## Team
 Joshua Hong (jjhong), Kit Ao (kitao)
