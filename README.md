@@ -1,9 +1,13 @@
-# Parallelizing a DFS-based hyperparameter search algorithm using Shared Address Space and Message Passing models
+# Tensor Program Hyperparameter Search Parallelization with Shared Address Space and Message Passing Models
 
 ## Links
 [Project Proposal (PDF)](./proposal.pdf)
 
 [Project Milestone (PDF)](./milestone.pdf)
+
+[Final Project Report (PDF)](./FinalProjectReport.pdf)
+
+[Poster (PDF)](./Poster.pdf)
 
 ## Team
 Joshua Hong (jjhong), Kit Ao (kitao)
@@ -31,9 +35,9 @@ As mentioned before, we will utilize the OpenMP framework for the Shared Address
 ## Goals and Deliverables
 
 ### Plan to Achieve
-- [ ] Implement the Shared Address Space (OpenMP) and Message Passing (MPI) versions of the DFS search algorithm.
-- [ ] Benchmark the performance of the two versions in terms of speedup performance and workload distribution.
-- [ ] **Poster Session**: we will show graphs that demonstrate that our approaches provide significant speedup when compared to the existing implementation. 
+- [x] Implement the Shared Address Space (OpenMP) and Message Passing (MPI) versions of the DFS search algorithm.
+- [x] Benchmark the performance of the two versions in terms of speedup performance and workload distribution.
+- [x] **Poster Session**: we will show graphs that demonstrate that our approaches provide significant speedup when compared to the existing implementation. 
 
 ### Hope to Achieve
 - [ ] Investigate how to reduce contention on the z3 solver. Possibly ideas are caching to reduce unnecessary calls to the z3 solver, reducing calls to the z3 solver by limiting the number of verifications.
