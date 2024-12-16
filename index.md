@@ -9,6 +9,8 @@
 
 [Poster (PDF)](./Poster.pdf)
 
+[Work Repository](https://github.com/AMKCode/mirage)
+
 ## Team
 Joshua Hong (jjhong), Kit Ao (kitao)
 
